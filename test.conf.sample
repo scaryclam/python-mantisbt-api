@@ -1,0 +1,6 @@
+[CREDENTIALS]
+username=some.user
+password=password
+
+[SERVER]
+url=http://someurl.com/api/soap/mantisconnect.php?wsdl
